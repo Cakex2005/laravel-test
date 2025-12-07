@@ -1,4 +1,4 @@
 <?php
 return [
-    'welcome' => 'Welcome :name',
+    'apple' => 'Apple :name',
 ];
